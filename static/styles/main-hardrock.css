@@ -1379,6 +1379,7 @@ footer ul.menu-footer li a {
 }
 .primary-title {
   font-weight: 300;
+  font-family: "Cinzel", serif;
   color: #eaeaea;
   font-size: 50px;
   line-height: 50px;
@@ -2565,6 +2566,7 @@ ul.contact li {
 */
 .social-links {
   margin-top: 40px;
+  text-align: center;
 }
 .social-links li {
   display: inline-block;
